@@ -1,0 +1,11 @@
+OrderID,Customer,Product,Category,Quantity,Price,Date
+1,Alice,Laptop,Electronics,1,60000,2024-01-10
+2,Bob,Phone,Electronics,2,20000,2024-01-12
+3,Charlie,Shoes,Fashion,3,2000,2024-02-05
+4,Alice,Headphones,Electronics,2,3000,2024-02-10
+5,David,T-shirt,Fashion,4,500,2024-03-01
+6,Eva,Laptop,Electronics,1,65000,2024-03-15
+7,Frank,Shoes,Fashion,2,2500,2024-03-20
+8,Alice,Phone,Electronics,1,22000,2024-04-05
+9,Bob,T-shirt,Fashion,3,700,2024-04-10
+10,Charlie,Laptop,Electronics,1,62000,2024-04-15
